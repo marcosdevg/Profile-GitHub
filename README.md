@@ -1,4 +1,4 @@
-  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/"><i>Marcos Gomes</i></a></h1>
+  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/"><i>Marcos Gomes</i></a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
   <li align="center">📚Cursando Gestão da Tecnologia da Informação - <strong>Loading...(6/6)</strong>
   <li align="center">📡Tecnico em Redes de Computadores
   <li align="center">🔭 Apaixonado por Tecnologia
