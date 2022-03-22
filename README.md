@@ -1,52 +1,33 @@
 <div>
-  <h1 align="start">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/"><i>Marcos Gomes</i></a> 😃️</h1>
-  <p align="start"> <li> 📚Cursando Gestão da Tecnologia da Informação (6/6)
-  <p align="start"> <li> 📡Tecnico em Redes de Computadores
-  <p align="center">
-  </h2>
+  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/"><i>Marcos Gomes</i></a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+  <li align="center">📚Cursando Gestão da Tecnologia da Informação - <strong>Loading...(6/6)</strong>
+  <li align="center">📡Tecnico em Redes de Computadores
+  <li align="center">🔭 Apaixonado por Tecnologia
 </div>
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>""</i></p> -->
+<br>
 
 <div align="center">
-  <a href="https://github.com/marcosdevg">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosdevg&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdevg&theme=buefy&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/marcosdevg"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosdevg&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=false&show_owner=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdevg&theme=buefy&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
 <div align="center" valign="top"><br>
-<!--  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">-->
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
-<!-- <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> -->
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
- <!--  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
+   <a href="https://github.com/marcosdevg"> 
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> 
+    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+     </a>
 </div><br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:marcosdev.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-  
-  
-  
-</div>
-
-<div align="center">
-  
+    <a href="https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:marcosdev.gomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
+    <a href="https://t.me/marcosgomes2" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
